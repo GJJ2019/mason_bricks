@@ -6,12 +6,7 @@ A brick to produce boilerplate code for new feature using mobx state management
 
 ## Prerequisites
 
-Installed version of [flutter_mobx] &
-```
-environment:
-  sdk: ">=2.17.0 <3.0.0"
-```
-
+Installed version of [flutter_mobx] 
 
 ## Usage 🚀
 
