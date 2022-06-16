@@ -2,16 +2,11 @@
 
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 
-A brick to produce boilerplate code for new feature.
+A brick to produce boilerplate code for new feature using riverpod state management
 
 ## Prerequisites
 
-Installed version of [hooks_riverpod] &
-```
-environment:
-  sdk: ">=2.17.0 <3.0.0"
-```
-
+Installed version of [hooks_riverpod]
 
 ## Usage 🚀
 

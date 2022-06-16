@@ -3,7 +3,7 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class {{name.pascalCase()}}View extends ConsumerWidget {
   /// TODO add your comment here
-  const {{name.pascalCase()}}View({super.key});
+  const {{name.pascalCase()}}View({Key? key}) : super(key: key);
 
   static const routeName = '/{{name.camelCase()}}';
 
