@@ -5,6 +5,6 @@ class {{name.pascalCase()}}RepositoryImpl extends {{name.pascalCase()}}Repositor
   // TODO add your methods here
 }
 
-final {{name.pascalCase()}}RepositoryProvider = Provider<{{name.pascalCase()}}Repository>((ref) {
+final {{name.camelCase()}}RepositoryProvider = Provider<{{name.pascalCase()}}Repository>((ref) {
   return {{name.pascalCase()}}RepositoryImpl();
 });
