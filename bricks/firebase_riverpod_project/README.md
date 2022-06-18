@@ -1,13 +1,13 @@
-# riverpod_project
+# firebase_riverpod_project
 
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 
-A brick to produce boilerplate code for new flutter project using `go_router`, `hooks_riverpod`, `hive_flutter`.
+A brick to produce boilerplate code for new flutter project using firebase & `go_router`, `hooks_riverpod`, `hive_flutter`.
 
 ## Usage 🚀
 
 ```
-mason make riverpod_project
+mason make firebase_riverpod_project
 ```
 
 Note: 
@@ -16,12 +16,13 @@ Note:
 
 ## Output
 ```
-.
 ├── l10n.yaml
 ├── lib
 │   ├── app
 │   │   ├── app.dart
 │   │   ├── core
+│   │   │   ├── firebase_collection
+│   │   │   │   └── firebase_collection.dart
 │   │   │   ├── local_storage
 │   │   │   │   └── app_storage.dart
 │   │   │   ├── router
@@ -42,6 +43,7 @@ Note:
 │   │           │   └── main_view.dart
 │   │           └── widget
 │   │               └── main_widget.dart
+│   ├── firebase_options.dart
 │   ├── l10n
 │   │   ├── arb
 │   │   │   └── app_en.arb

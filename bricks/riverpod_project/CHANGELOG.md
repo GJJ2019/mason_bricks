@@ -1,3 +1,3 @@
 # 0.1.0+1
 
-- TODO: Describe initial release.
+- A brick to produce boilerplate code for new flutter project using `go_router`, `hooks_riverpod`, `hive_flutter`.

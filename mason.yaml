@@ -1,9 +1,12 @@
 bricks:
-  riverpod_module:
-    path: bricks/riverpod_module
+  firebase_riverpod_project:
+    path: bricks/firebase_riverpod_project
 
   mobx_module:
     path: bricks/mobx_module
+
+  riverpod_module:
+    path: bricks/riverpod_module
 
   riverpod_project:
     path: bricks/riverpod_project
