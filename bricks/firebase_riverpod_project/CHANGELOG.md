@@ -1,3 +1,6 @@
+# 0.1.0+3
+
+- Adding missing flutter_localizations
 # 0.1.0+2
 
 - Adding missing intl package & upgrading go_router
