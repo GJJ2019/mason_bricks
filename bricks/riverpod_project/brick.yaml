@@ -1,6 +1,6 @@
 name: riverpod_project
 description: A new brick created with the Mason CLI for initial setup using riverpod, go_router & hive.
-version: 0.1.0+4
+version: 0.1.0+5
 repository: https://github.com/GJJ2019/mason_bricks/tree/main/bricks/riverpod_project
 
 environment:

@@ -46,6 +46,7 @@ dev_dependencies:
   # for localization
   flutter_localizations:
     sdk: flutter
+  
   intl: ^0.17.0
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
