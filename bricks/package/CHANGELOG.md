@@ -1,3 +1,8 @@
+# 0.1.0+2
+
+- adding test folder
+- removing unnecessary imports
+
 # 0.1.0+1
 
-- TODO: Describe initial release.
+- A new brick created with the Mason CLI for generating flutter package.
