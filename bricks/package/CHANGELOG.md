@@ -1,3 +1,7 @@
+# 0.1.0+3
+
+- adding missing library import
+
 # 0.1.0+2
 
 - adding test folder
