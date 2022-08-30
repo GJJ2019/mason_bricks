@@ -1,4 +1,10 @@
-# 0.1.0+4
+# 0.1.0+6
+
+- sorting dependencies according to alphabetical order
+- updating dependencies
+- adding default router to MainView.routeName
+
+# 0.1.0+5
 
 - fixing some pubspec issues
 
