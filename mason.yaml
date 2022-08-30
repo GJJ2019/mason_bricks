@@ -5,6 +5,9 @@ bricks:
   mobx_module:
     path: bricks/mobx_module
 
+  package:
+    path: bricks/package
+
   riverpod_module:
     path: bricks/riverpod_module
 
