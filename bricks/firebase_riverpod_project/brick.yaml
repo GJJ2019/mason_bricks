@@ -1,6 +1,6 @@
 name: firebase_riverpod_project
 description: A new brick created with the Mason CLI for initial setup using firebase, riverpod, go_router & hive.
-version: 0.1.0+3
+version: 0.1.0+4
 repository: https://github.com/GJJ2019/mason_bricks/tree/main/bricks/firebase_riverpod_project
 
 environment:

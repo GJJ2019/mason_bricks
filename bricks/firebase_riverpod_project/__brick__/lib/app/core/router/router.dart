@@ -10,6 +10,7 @@ final routerProvider = Provider<GoRouter>(
   (ref) {
     return GoRouter(
       // TODO: add your router here
+      initialLocation: MainView.routeName,
       routes: [
         /// for showing onboarding
         GoRoute(
