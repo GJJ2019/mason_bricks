@@ -1,3 +1,7 @@
+# 0.1.0+5
+
+- updating dependencies
+
 # 0.1.0+4
 
 - sorting dependencies according to alphabetical order

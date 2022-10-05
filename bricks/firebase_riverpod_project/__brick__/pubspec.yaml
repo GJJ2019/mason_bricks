@@ -29,18 +29,18 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  cloud_firestore: ^3.4.6
+  cloud_firestore: ^3.5.0
   cupertino_icons: ^1.0.5
-  firebase_auth: ^3.7.0
-  firebase_core: ^1.21.1
-  firebase_crashlytics: ^2.8.9
-  firebase_dynamic_links: ^4.3.6
-  firebase_storage: ^10.3.7
+  firebase_auth: ^3.11.1
+  firebase_core: ^1.24.0
+  firebase_crashlytics: ^2.8.12
+  firebase_dynamic_links: ^4.3.9
+  firebase_storage: ^10.3.10
   flutter:
     sdk: flutter
-  go_router: ^4.3.0
+  go_router: ^5.0.5
   hive_flutter: ^1.1.0
-  hooks_riverpod: ^1.0.4
+  hooks_riverpod: ^2.0.2
 
 dev_dependencies:
   flutter_lints: ^2.0.1
