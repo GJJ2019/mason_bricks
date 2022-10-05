@@ -1,3 +1,7 @@
+# 0.1.0+7
+
+- upgrading go_router & hooks_riverpod
+
 # 0.1.0+6
 
 - sorting dependencies according to alphabetical order
