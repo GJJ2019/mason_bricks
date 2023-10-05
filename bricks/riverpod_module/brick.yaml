@@ -7,6 +7,14 @@ environment:
   mason: ">=0.1.0-dev.26 <0.1.0"
 
 vars:
+  folder:
+    type: select
+    description: Choose a folder type for your module
+    default: common
+    options:
+      - common
+      - feature
+    prompt: Which folder would you like your module in?
   name:
     type: string
     description: Name of your module
