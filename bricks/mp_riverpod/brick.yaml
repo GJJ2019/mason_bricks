@@ -1,4 +1,4 @@
-name: riverpod_module
+name: mp_riverpod
 description: A brick to produce boilerplate code for new feature using riverpod
 version: 0.1.0+4
 repository: https://github.com/GJJ2019/mason_bricks/tree/main/bricks/riverpod_module
@@ -8,12 +8,12 @@ environment:
 
 vars:
   folder:
-    type: select
-    description: Choose a folder type for your module
-    default: common
-    options:
+    type: enum
+    values:
       - common
       - feature
+    description: Choose a folder type for your module
+    default: common
     prompt: Which folder would you like your module in?
   name:
     type: string
