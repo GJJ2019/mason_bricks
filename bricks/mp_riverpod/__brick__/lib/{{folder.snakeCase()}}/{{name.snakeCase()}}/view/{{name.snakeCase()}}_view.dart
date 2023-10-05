@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-class {{name.pascalCase()}}View extends ConsumerWidget {
+class {{name.pascalCase()}}View extends HookConsumerWidget {
   /// TODO add your comment here
   const {{name.pascalCase()}}View({Key? key}) : super(key: key);
 
