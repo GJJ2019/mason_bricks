@@ -11,9 +11,9 @@ vars:
     type: enum
     values:
       - common
-      - feature
+      - features
     description: Choose a folder type for your module
-    default: common
+    default: features
     prompt: Which folder would you like your module in?
   name:
     type: string
