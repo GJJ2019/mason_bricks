@@ -4,7 +4,7 @@ import '{{name.snakeCase()}}_repository.dart';
 
 class {{name.pascalCase()}}RepositoryImpl extends {{name.pascalCase()}}Repository {
   final Dio dio;
-  {name.pascalCase()}}RepositoryImpl(this.dio);
+  {{name.pascalCase()}}RepositoryImpl(this.dio);
 
   // TODO add your methods here
 }
