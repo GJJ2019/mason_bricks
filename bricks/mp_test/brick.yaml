@@ -1,0 +1,29 @@
+name: mp_test
+description: A brick to produce boilerplate code for new feature using riverpod
+version: 0.1.0+4
+repository: https://github.com/GJJ2019/mason_bricks/tree/main/bricks/riverpod_widget
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  fileName:
+    type: string
+    description:
+    default: c
+    prompt: What is your widget fileName?
+  origFilePath:
+    type: string
+    description:
+    default: b
+    prompt: What is your widget fileName?
+  newFilePath:
+    type: string
+    description:
+    default: a
+    prompt: What is your widget fileName?
+  basicTestReltiveFilePath:
+    type: string
+    description:
+    default: a
+    prompt: What is your widget fileName?

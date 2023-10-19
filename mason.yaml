@@ -1,3 +1,5 @@
 bricks:
   mp_riverpod:
     path: bricks/mp_riverpod
+  mp_test:
+    path: bricks/mp_test
