@@ -4,4 +4,4 @@ version: 0.1.0+7
 repository: https://github.com/GJJ2019/mason_bricks/tree/main/bricks/riverpod_project
 
 environment:
-  mason: ">=0.1.0-dev.26 <0.1.0"
+  mason: ">=0.1.0 <0.2.0"
